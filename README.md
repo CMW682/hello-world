@@ -1,3 +1,4 @@
 # hello-world
 first repository
-commit to making changes
+
+I'm a college student living in Texas. I'm working on a degree in Computer Science and wanted to learn more about programming.
